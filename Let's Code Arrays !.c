@@ -33,6 +33,6 @@ int main()
       }
     }
   }
-  printf("Diagonal sum of matrix are %d and %d",s1,s2);
+  printf("\nDiagonal sum of matrix are %d and %d",s1,s2);
   getch();
 }
