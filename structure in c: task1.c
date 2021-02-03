@@ -29,4 +29,5 @@ int main()
   {
     printf("%s \t%d \t%d \t%d\n",e[i].name, e[i].age, e[i].ph_no, e[i].salary);
   }
+  Return;
 }
